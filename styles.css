@@ -1,6 +1,24 @@
 .outline{
-    outline: solid black 1px;
+    /*outline: solid black 1px;*/
 }
 #search-box{
     margin:5px;
+}
+.round-border{
+    border: solid #dee2e6 1px;
+    border-radius: 5px;
+}
+.border-bottom{
+    border-bottom: solid black 1px;
+}
+#logo{
+    font-size: large;
+    font-weight: bold;
+}
+.align-center{
+    display: flex;
+    align-items: center;
+}
+.blue-border{
+    border-color: #0d6efd;
 }
